@@ -17,6 +17,6 @@ robot-vision/
 ├── calibration/ # Camera calibration and intrinsic/extrinsic estimation
 ├── open3d/ # 3D vision using Open3D
 ├── perception/ # Visual perception modules (YOLO, segmentation, etc.)
-├── tensorRT/ # TensorRT benchmarking and inference
+├── optimization/ # TensorRT benchmarking and inference
 ├── ros2_perception/ # ROS 2 nodes for perception pipeline
 └── README.md # This file
